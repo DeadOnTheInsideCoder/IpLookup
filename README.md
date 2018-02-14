@@ -18,5 +18,5 @@
                python IpLookup.py 31.13.86.36 c://somepath/somepath/file.txt
 <h2>OR</h2><br />
                
-               python IpLookup.py<br />
+               python IpLookup.py
                [?]Path >>
