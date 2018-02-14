@@ -14,7 +14,9 @@
    B)Specify the inputs later.<br/>
 
 <h1>Example:</h1>
-         python IpLookup.py 31.13.86.36 c://somepath/somepath/file.txt
+               
+               python IpLookup.py 31.13.86.36 c://somepath/somepath/file.txt
 <h2>OR</h2><br />
-         python IpLookup.py
-         [?]Path >>
+               
+               python IpLookup.py<br />
+               [?]Path >>
